@@ -19,19 +19,19 @@ I am a driven and committed professional, enthusiastic about collaborating with 
 <table>
      <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,mui,bootstrap,html,css,sass,js,ts,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mui,bootstrap,html,css,sass,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nestjs,nodejs,fastapi,express,nginx,vite,deno"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,circleci,terraform,jenkins,githubactions"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,terraform,jenkins,githubactions"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cypress,jest"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cypress,jest,playwright"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -43,7 +43,7 @@ I am a driven and committed professional, enthusiastic about collaborating with 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=zsh,bash"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,graphql,apollo,zsh"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
