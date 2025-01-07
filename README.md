@@ -17,6 +17,12 @@ I am a driven and committed professional, enthusiastic about collaborating with 
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
+   <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Blockchain:</td>
+        <td><img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solana.png" />
+        <img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" />
+        </td>
+    </tr>
      <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,ts,js,mui,bootstrap,html,css,sass,figma"/></td>
@@ -43,7 +49,7 @@ I am a driven and committed professional, enthusiastic about collaborating with 
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,graphql,apollo,zsh"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,graphql,apollo,zsh,notion"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
