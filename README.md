@@ -8,11 +8,11 @@
 ## A little about me... 🧑‍💻
 
 
-I am a committed Blockchain Developer Advocate (DevRel) with a passion for demystifying complex technologies for developers. My main goal is to create educational programs that encourage the adoption of blockchain ecosystems. By providing developers with the necessary knowledge and tools, I strive to eliminate obstacles and make blockchain technology more approachable.
+I am a committed Blockchain Developer Advocate (DevRel) with a passion for making complex technologies more accessible to developers. My primary focus is on building educational programs that drive the adoption of blockchain ecosystems, specifically within the Solana ecosystem. By equipping developers with the right knowledge and tools, I aim to remove barriers and make blockchain development more approachable.
 
-I have a deep understanding of the Blockchain ecosystem and its potential to transform industries. I have acquired extensive knowledge and experience in various concepts, such as Foundry, Hardhat, Opcodes, Delegate call, Proxies, Hardhat coverage, Hashing functions, ECDSA, EVM, Re-entrancy, Front-running, Denial of service, Byzantine consensus, ERC721, ERC20, ERC1155, EIP712, ECDSA, EIP1159, Scaffold ETH, Ethers.js, Typescript/Javascript, Alchemy, Node JS & React JS.
+I have a deep understanding of the Solana ecosystem and its potential to revolutionize industries. My expertise spans a wide range of concepts, including Rust, Anchor Framework, Solana Program Library (SPL), Solana Runtime, Cross-Program Invocation (CPI), PDAs, Accounts Model, Metaplex, Token Program, Sealevel, Syscalls, Merkle Trees, Zero-Knowledge Proofs, Solana CLI, Web3.js, Typescript/Javascript, and React.js.
 
-I am a driven and committed professional, enthusiastic about collaborating with teams to reach shared objectives. With a naturally curious mindset, I constantly seek to expand my knowledge and stay updated on the latest advancements in the blockchain space. My dedication and expertise make me a valuable asset to any blockchain project or team.
+I am a dedicated and enthusiastic professional who thrives on collaboration to achieve shared goals. With a naturally curious mindset, I continuously seek to expand my expertise and stay ahead of the latest advancements in Solana and the broader blockchain space. My passion for education and technical excellence enables me to empower developers and contribute meaningfully to the growth of the Solana ecosystem.
 
 ------
 <h3 align="left">Languages and Tools:</h3>
